@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalcularBits</string>
+    <string name="autor">Gustavo de Paula 1110482313003</string>
+    <string name="rbBytes">Bytes</string>
+    <string name="rbKbytes">KBytes</string>
+    <string name="rbMbytes">Megabytes</string>
+    <string name="rbGbytes">Gigabytes</string>
+    <string name="rbTbytes">Terabytes</string>
+    <string name="etvalor">Valor em bits</string>
+    <string name="btnConverter">Converter</string>
+    <string name="saidaBytes"> Bytes</string>
+    <string name="saidaKBytes"> Kbytes</string>
+    <string name="saidaMBytes"> Mbytes</string>
+    <string name="saidaGBytes"> Gbytes</string>
+    <string name="saidaTBytes"> Tbytes</string>
+
+
+</resources>
